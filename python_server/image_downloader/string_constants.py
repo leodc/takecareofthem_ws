@@ -1,0 +1,7 @@
+VEGETATION_IMAGE = "MODIS_Terra_CorrectedReflectance_Bands721"
+RESOLUTION_250 = "250m"
+RERIEVE_IMAGE = "ASTER_GDEM_Color_Shaded_Relief"
+RESOLUTION_30 = "31m"
+GIBIS_URL_HEAD = "http://map1.vis.earthdata.nasa.gov/wmts-geo/"
+GIBIS_URL_DEF = "/default/"
+GIBIS_URL_NAME = "${z}/${y}/${x}."
